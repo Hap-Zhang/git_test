@@ -1,3 +1,3 @@
 # Test
 
-Test2  -- master
+Test2  -- master --branch A
